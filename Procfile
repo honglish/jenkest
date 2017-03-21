@@ -1,1 +1,1 @@
-web: java -jar jenkins.war
+web: java -jar jenkins.war --httpPort=-1
