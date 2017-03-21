@@ -1,1 +1,1 @@
-web: java -jar jenkins.war --httpPort=-1
+web: java -jar jenkins.war --httpPort=-1 --httpsPort=8080
